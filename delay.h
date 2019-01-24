@@ -1,5 +1,4 @@
 /*	LCD.h
-Technophilia embedded systems
 
 	this header file provides time delay in the form of mili second and micro second
 	without affecting any interrupts.
