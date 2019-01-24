@@ -5,14 +5,6 @@ Headerfile for make ADC convertion
 
 ***********************************************************************
 
-*COPYRIGHT(c) Technophilia.
-
-//*Author:Technophilia
-
-//*compiler:winavr
-
-//************************************************************//**//*********//*	adc.h
-//Technophilia embedded systems
 
 */
 
