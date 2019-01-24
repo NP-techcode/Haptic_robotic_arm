@@ -1,5 +1,5 @@
 /*	LCD.h
-Technophilia embedded systems
+
 
 	This header files have implementation of some common finctions of the LCD.
 	Include this header file in your C code. Call the lcd_init() function before
