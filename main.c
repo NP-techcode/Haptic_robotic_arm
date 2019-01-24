@@ -1,12 +1,6 @@
 /*Haptic Robotic Arm using modified BO servo motors 
 
-*******************************************************************************
-COPYRIGHT(C)Technophilia
-date:-15th Dec 2010
-Author: Technophilia R&D Team
-Organization: Technophilia
-Target system-AVR devlopment board s/n-107010
-manufacturer: Technophilia 
+
 microcontroller: ATmega-8535
 clock: 16mhz
 
